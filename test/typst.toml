@@ -1,0 +1,8 @@
+[package]
+name = "plantuml-test"
+version = "0.0.1"
+entrypoint = "test.typ"
+
+[[tool.prequery.jobs]]
+name = "download"
+kind = "web-resource"

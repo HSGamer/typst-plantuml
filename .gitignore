@@ -1,0 +1,5 @@
+/target
+/dist
+/typst-packages
+test/test.pdf
+assets/
