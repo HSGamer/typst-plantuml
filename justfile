@@ -37,7 +37,6 @@ test:
     cd test
     prequery --root .. test.typ
     typst compile --root .. test.typ
-    rm -rf ../assets/
 
 # ===== Publish =====
 

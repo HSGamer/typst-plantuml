@@ -16,7 +16,7 @@ Import the package and use the `plantuml` function:
 Alice -> Bob: Hello
 Bob --> Alice: Hi there
 @enduml
-")
+", "assets/test1.svg")
 ```
 
 More examples can be found
